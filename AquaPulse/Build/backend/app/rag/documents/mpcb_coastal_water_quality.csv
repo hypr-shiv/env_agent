@@ -1,0 +1,6 @@
+station_name,coastal_location,district,sst_celsius,dissolved_oxygen_mg_l,chlorophyll_a_mg_m3,salinity_ppt,ph,mpcb_classification,observation_date
+Satpati Offshore Buoy,Satpati,Palghar,28.4,6.4,2.1,34.2,7.9,Class SW-II Compliant,2026-11-05
+Dahanu Creek Station,Dahanu,Palghar,28.2,5.9,1.8,33.8,7.8,Class SW-II Compliant,2026-11-05
+Arnala Nearshore Buoy,Arnala,Palghar,28.6,6.2,2.3,34.5,8.0,Class SW-II Compliant,2026-11-05
+Vasai Creek Mouth,Vasai,Palghar,28.8,5.1,2.9,31.5,7.6,Class SW-II Moderate,2026-11-05
+

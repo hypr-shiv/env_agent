@@ -1,0 +1,47 @@
+prompt 1
+
+You are a senior AI architect and Python full-stack developer.
+I am developing a project named AquaPulse.
+PROJECT OBJECTIVE:
+Build an AI-powered Smart Fisheries and Coastal Safety System
+for Palghar, Maharashtra, India.
+The system will contain seven specialized AI agents:
+1. Weather Agent
+2. Fisheries Agent
+3. Disaster Agent
+4. Market Agent
+5. Environment Agent
+6. Government Scheme Agent
+7. Complaint Agent
+TECHNOLOGY STACK:
+- Python
+- FastAPI
+- LangGraph
+- Ollama Llama 3.2:3b
+- PostgreSQL
+- ChromaDB
+- Pandas
+- React
+- Tailwind CSS
+- PyTorch for fish image classification
+REQUIREMENTS:
+- One central multi-agent orchestrator.
+- Intent classification and conditional routing.
+- Single-agent and multi-agent execution.
+- Shared state management using LangGraph.
+- RAG for domain-specific information.
+- Fish image identification.
+- Market price retrieval.
+- Location-based information.
+- Source citations and data freshness.
+- Error handling and validation.
+TASK:
+1. Analyze the existing workspace.
+2. Identify reusable components.
+3. Prepare the complete architecture.
+4. Prepare a development roadmap.
+5. Identify missing dependencies.
+6. Suggest the project folder structure.
+Do not start implementing the entire application yet.
+First present the architecture and implementation plan.
+

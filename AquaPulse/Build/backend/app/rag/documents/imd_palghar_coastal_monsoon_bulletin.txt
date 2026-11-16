@@ -1,0 +1,18 @@
+INDIA METEOROLOGICAL DEPARTMENT (IMD) - REGIONAL SPECIALISED METEOROLOGICAL CENTRE
+COASTAL WEATHER BULLETIN FOR PALGHAR DISTRICT (SATPATI, DAHANU, ARNALA)
+Bulletin ID: IMD-MUM-PLG-2026-W09
+Issued: March 2026
+
+1. WEATHER PARAMETERS & SATELLITE RADAR SYNTHESIS
+- Sea Surface Temperature (SST): 28.5°C across Satpati and Dahanu offshore waters.
+- Ambient Air Temperature: 28°C to 33°C.
+- Wind Velocity and Direction: North-Northwesterly at 14 to 22 km/h (8 to 12 knots).
+- Wave Height & Swell: Significant wave height (SWH) 1.2 to 1.8 meters along Palghar coastline.
+- Humidity & Visibility: Relative humidity 74%, visibility greater than 8 kilometers.
+
+2. FISHING ADVISORY AND SAFETY WARNINGS
+- Inshore Fishing: Permitted for motorized and mechanized crafts under 20 meters.
+- Deep Sea Advisory: Crafts are advised to remain vigilant between 02:00 IST and 05:00 IST due to sudden gusty winds.
+- Monsoon Ban Period: Annual Maharashtra Marine Fishing Regulation ban is enforced strictly from June 1 to July 31 across all Palghar landing centres.
+- Cyclone Alert Levels: Stage I (Pre-cyclone watch), Stage II (Cyclone alert 48h prior), Stage III (Cyclone warning 24h prior), Stage IV (Landfall outlook 12h prior).
+

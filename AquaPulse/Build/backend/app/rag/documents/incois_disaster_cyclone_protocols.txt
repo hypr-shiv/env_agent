@@ -1,0 +1,19 @@
+# INCOIS & IMD Coastal Disaster & Cyclone Emergency Protocols (Palghar Sector)
+Document ID: INCOIS-DISASTER-CYCLONE-2024
+Author: Indian National Centre for Ocean Information Services (INCOIS) & Palghar District Disaster Management Cell
+District: Palghar, Maharashtra
+
+1. Cyclone Warning Four-Stage Alert System:
+- Stage 1 (Yellow Watch / Pre-Cyclone Watch): Issued 72 hours before cyclonic disturbance formation over Arabian Sea.
+- Stage 2 (Orange Alert / Cyclone Alert): Issued 48 hours prior to expected coastal landfall. Total ban on fishermen venturing into deep sea.
+- Stage 3 (Red Warning / Cyclone Warning): Issued 24 hours prior to landfall. Complete beaching of all traditional and mechanized boats. Coastal evacuation initiated for low-lying koliwadas in Dahanu, Satpati, and Arnala.
+- Stage 4 (Post-Landfall Outlook): Issued 12 hours prior to landfall until de-escalation.
+
+2. High Swell Surge Advisory:
+Swell surges (Kallakkadal) can create breaker waves exceeding 2.5 meters at shallow river mouths during spring high tides without local wind indication. Automatic warning broadcast via VHF Channel 16.
+
+3. Emergency Helplines:
+Palghar District Emergency Operation Center (DEOC): 1077 (Toll-Free, 24x7)
+Direct Control Line: 02525-252020 / 252021
+Indian Coast Guard Maritime Rescue Sub-Center (MRSC Mumbai): 1554
+

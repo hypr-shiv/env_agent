@@ -1,0 +1,2 @@
+"""AquaPulse Fish Vision Module."""
+
